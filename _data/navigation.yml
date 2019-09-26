@@ -18,12 +18,41 @@ home:
    url: /
    baseurl: /
 
-offerings: 
-   title: CMPTGCS 1A
-   url: /
-   baseurl: /F19-1A
-
-offering_links:
-  - title: Syllabus
-    url: /info/syllabus/
-    description: "University and course policies"
+offering_menus:
+  -
+    term: F19-1A
+    baseurl: /F19-1A
+    items: 
+      - title: Hwk
+        url: /hwk/
+        description: "Homework Assignments"
+      - title: Lab
+        url: /lab/
+        description: "Lab Assignments"
+      - title: Lecture
+        url: /lecture/
+        description: "Lecture"
+      - title: Cal
+        url: /info/calendar/
+        description: "Assignment Calendar"
+      - title: Github
+        dropdown:
+           - title: CCS-1A-F19
+             url: https://github.com/CCS-1A-F19
+  -
+    term: F19-1L
+    baseurl: /F19-1L
+    items: 
+      - title: Lab
+        url: /lab/
+        description: "Lab Assignments"
+      - title: Lecture
+        url: /lecture/
+        description: "Lecture"
+      - title: Cal
+        url: /info/calendar/
+        description: "Assignment Calendar"
+      - title: Github
+        dropdown:
+           - title: CCS-1L-F19
+             url: https://github.com/CCS-1L-F19

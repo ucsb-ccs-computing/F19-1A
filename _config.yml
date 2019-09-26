@@ -9,6 +9,7 @@ baseurl: "/F19-1A"
 
 course: "CMPTGCS 1A"
 qtr: "F19"
+instructor: "Richert Wang"
 quarter: "Fall 2019"
 piazza_url: piazza.com/ucsb/fall2019/cmptgcs1a/home
 gauchospace_course_page:
