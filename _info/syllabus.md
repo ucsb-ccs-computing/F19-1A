@@ -1,6 +1,5 @@
 ---
 title: "Syllabus, CMPTGCS 1A, Fall 2019"
-layout: handout
 ready: false
 ---
 
