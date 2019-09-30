@@ -3,8 +3,8 @@ layout: lab
 num: lab01
 ready: true
 desc: "Crunching numbers: Loops and Functions"
-assigned: 2018-09-27 09:00:00.00-8
-due: 2018-12-14 23:59:00.00-7
+assigned: 2019-09-27 09:00:00.00-8
+due: 2019-12-14 23:59:00.00-7
 ---
 
 ## Goals for this lab
