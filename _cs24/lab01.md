@@ -36,7 +36,7 @@ We assume you already know everything that was covered in Lab00, and we will not
 * Clone the starter code repo from our class organization to your cs24 directory.
 
 ```
-	git clone git@github.com:ucsb-cs24-s18/cs24-s18-starter-code.git
+	git clone git@github.com:CCS-1A-F19/cs24-s18-starter-code.git
 ```
 
 Note that this repo contains the starter code for all labs and programming assignments (although only the code for lab01 is up to date). So, you don't have to repeat the above step in subsequent labs.
