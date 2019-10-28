@@ -33,12 +33,12 @@ Once you and your partner are in agreement, choose an initial driver and navigat
 
 Visit the following web link—you may want to use "right click" (or "control-click" on Mac) to bring up a window where you can open this in a new window or tab:
 
-<http://cs.ucsb.edu/~richert/cs32/misc/lab02/>
+<http://cs.ucsb.edu/~richert/cs32/misc/s18/lab02/>
 
 You should see a listing of several C++ programs. We are going to copy those into your<tt>~/{{site.course | downcase}}/{{page.num}}</tt> directory all at once with the following command:
 
 <div>
-<tt>cp ~richert/public_html/cs32/misc/lab02/* ~/cs32/lab02</tt>
+<tt>cp ~richert/public_html/cs32/misc/s18/lab02/* ~/cs32/lab02</tt>
 </div>
 
 Note: If you get the error message:
@@ -52,7 +52,7 @@ then it probably means you didn't create a <tt>~/{{site.course | downcase}}/{{pa
 
 The `*` symbol in this command is a "wildcard"—it means that we want all of the files from the source directory copy be copied into the destination directory namely <tt>~/{{site.course | downcase}}/{{page.num}}</tt>.
 
-After doing this command, if you `cd` into <tt>~/{{site.course | downcase}}/{{page.num}}</tt> and use the `ls` command, you should see several files in your <tt>~/{{site.course | downcase}}/{{page.num}}</tt> directory&mdash;the same ones that you see if you visit the link <http://cs.ucsb.edu/~richert/cs32/misc/lab02/>
+After doing this command, if you `cd` into <tt>~/{{site.course | downcase}}/{{page.num}}</tt> and use the `ls` command, you should see several files in your <tt>~/{{site.course | downcase}}/{{page.num}}</tt> directory&mdash;the same ones that you see if you visit the link <http://cs.ucsb.edu/~richert/cs32/misc/s18/lab02/>
 
 
 If so, you are ready to move on to the next step.

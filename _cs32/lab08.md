@@ -36,11 +36,11 @@ In this step, we are going to copy the {{page.num}} starter files from the instr
 
 The files are in the instructors directory at 
 
-<tt>~richert/public_html/cs32/misc/lab08/*</tt>
+<tt>~richert/public_html/cs32/misc/s18/lab08/*</tt>
 
 and also accessible via the URL
 
-<http://cs.ucsb.edu/~richert/cs32/misc/lab08/>
+<http://cs.ucsb.edu/~richert/cs32/misc/s18/lab08/>
 
 You want to copy these files into your <tt>~/cs32/{{page.num}}</tt> directory.
 

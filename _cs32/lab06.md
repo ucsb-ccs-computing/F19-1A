@@ -6,8 +6,8 @@ ready: true
 desc: "Debugging Tools: gdb and valgrind"
 assigned: 2019-09-27 09:00:00.00-7
 due: 2019-12-14 23:59:00.00-7
-code_url: https://www.cs.ucsb.edu/~richert/cs32/misc/lab06/
-code_dir: ~richert/public_html/cs32/misc/lab06/
+code_url: https://www.cs.ucsb.edu/~richert/cs32/misc/s18/lab06/
+code_dir: ~richert/public_html/cs32/misc/s18/lab06/
 tools_gdb_url: https://ucsb-cs32.github.io/topics/tools_gdb/
 tools_valgrind_url: https://ucsb-cs32.github.io/topics/tools_valgrind/
 ---
@@ -100,7 +100,7 @@ It is possible that you may have a program that calls a library and you won't be
 
 Download the 4 files from here:
 
-* http://cs.ucsb.edu/~richert/cs32/misc/lab06/
+* http://cs.ucsb.edu/~richert/cs32/misc/s18/lab06/
 
 Or copy from here:
 
