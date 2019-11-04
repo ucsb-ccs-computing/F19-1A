@@ -318,7 +318,7 @@ Now run it in valgrind to make sure you don't have any memory leaks
 
 * Finally implement the overloaded assignment operator in intlist.cpp. To test it run <code>$ ./testrest 3</code>. If it doesn't crash, run it in valgrind to check for memory leaks
 
-Step 5: Submit intlist.cpp. (Only intlist.cpp)
+Step 5: Submit intlist.cpp and intlist.h
 
 Log into your account on https://www.gradescope.com/ and navigate to our course site: CMPTGCS 1A / CMPSC 24A Fall 2019. Select this assignment. Then click on the "Submit" button on the bottom right corner to make a submission. You will be given the option of uploading files from your local machine or submitting the code that is in a github repo. Select the second option and select your github repo for this assignment. You should receive 100/100 for a completely correct program.
 
